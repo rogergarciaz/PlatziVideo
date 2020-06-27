@@ -1,0 +1,20 @@
+.Contact {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+}
+h1 strong {
+    color: #026fff;
+}
+.Contact a {
+    color: #026fff;
+    font-size: 40px;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.Contact a:hover {
+    background-color: #056dff3f;
+}

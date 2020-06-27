@@ -1,0 +1,15 @@
+.Related {
+  width: 250px;
+  flex-shrink: 0;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Courier New', Courier, monospace;
+  position: fixed;
+  display: none; /* Quitar línea para mostrar */
+}
+.list{
+  text-align: left;
+  font-size: 1em;
+  color: white;
+  padding-left: 3em;
+}
